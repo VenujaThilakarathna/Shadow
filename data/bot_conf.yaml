@@ -2,47 +2,47 @@
 
 
 # Basic
-TOKEN: ""
+TOKEN: "2107634910:AAFg2ElkQK-yCXM56Yqc38_pLZ_tj6LrVHk"
 
 # Get they in https://my.telegram.org/
-APP_ID: ""
-APP_HASH: ""
+APP_ID: "7395896"
+APP_HASH: "cd3998ddf318dad74d7c506731bc0abc"
 
 #Generate a telethon str session  with https://repl.it/@SpEcHiDe/GenerateStringSession (telethon one)
-STRING_SESSION: ""
+STRING_SESSION: "1BVtsOIcBu4XWs__BcdXMT0bbUJH5jsaYVMbZDh0D35wixL90Z076gfZZycIWhojbuSNY55GZ7_DnH3DYZDRUDTrRRx8dzAAFxST_41os43mcpUofszc7GY5H6NDDehgzvobVgaS5cHpbS2NqqyOWd3W4CY2sYidKQjwQaT7hAv6PrkLXaL_IiQSRtQGN4bFQBlFSNeHG_YHhKBw-IvOTbFUob8T92qH6K3xfXQ0kxhuc8Une_8wwXLkSKLWoizLtOJGqD0wkbfs0pykAN0Zd9g1f07fcsQfUQbV8PvBL6AEelOQppAODM9wI0n1FFtnDeIj7aYgRoMArB4XlXeH60aK7Fg5OwKU="
 
 
-MONGO_URI: "mongodb+srv://dfsdfX:dfsfdX@cluster0.df4j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+MONGO_URI: "mongodb+srv://VndTg:VndTg@cluster0.xyocz.mongodb.net/cluster0?retryWrites=true&w=majority"
 
 MONGO_URI2: ""
 MONGO_PORT: 27017
-MONGO_DB': 'Shadow'
+MONGO_DB': 'VndTg'
 
 API_PORT': 8080
 
-REDIS_URI: "redis-1324.c234.us-east-1-4.ec4.cloud.redislabs.com"
-REDIS_PORT: 15514
-REDIS_PASS: "sdfgg"
+REDIS_URI: "redis-11871.c294.ap-northeast-1-2.ec2.cloud.redislabs.com"
+REDIS_PORT: 11871
+REDIS_PASS: "pJ6nCNscuhMqDzNAJqtbru1J7RLLGGMj"
 TEMP_MAIL_KEY: ""
-OWNER_ID: 1141839926
-OPERATORS: [1141839926, 00000000]
+OWNER_ID: 1984415770
+OPERATORS: [1984415770, 00000000]
 SUPPORT_CHAT: -000000000
 LYDIA_API_KEY: ""
 
-DATABASE_URL: ""
+DATABASE_URL: "postgres://qggpwtyq:fYdcE5-Cq5B8g80tUQH3zsDY4EXokrlT@castor.db.elephantsql.com/qggpwtyq"
 VIRUS_API_KEY: ""
 TIME_API_KEY: ""
 REM_BG_API_KEY: ""
-ARQ_API: ""
+ARQ_API: "OOWZTL-GECKHY-KCXKHM-XLRGOU-ARQ"
 
 # Advanced
-SW_API: ""
+SW_API: "VB~tIGZv0p8urCZFM4psuaJX03KN9hQFZw7twou7Fd64B~bDzX~VngaxCK_jOxcS"
 IBM_WATSON_CRED_URL: ""
 IBM_WATSON_CRED_PASSWORD: ""
 OPENWEATHERMAP_ID: ""
 WOLFRAM_ID: ""
 DEBUG_MODE: False
-APROOVE_DB: "mongodb+srv://dfsdfX:dfsfdX@cluster0.df4j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+APROOVE_DB: "mongodb+srv://VndTg:VndTg@cluster0.xyocz.mongodb.net/cluster0?retryWrites=true&w=majority"
 LOAD_MODULES: True
 LOGS_CHANNEL_ID: -000000000
 ALLOW_FORWARDS_COMMANDS: False
